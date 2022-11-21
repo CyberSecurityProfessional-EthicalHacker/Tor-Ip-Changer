@@ -1,10 +1,10 @@
    ## Tor-Ip-Changer
 
-# Change your Ip Address automatically, Tool based on tor project## Installation .....
+# Change your Ip Address automatically, Tool based on tor project
 
- Setps for Installation ......
- 
- Requirements:
+Installation .....
+
+Requirements:
 
 sudo apt-get install tor pip3 install requests[socks]
          
