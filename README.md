@@ -16,7 +16,7 @@ python3 install.py
 
 Go to browser settings under network settings / Change socks proxy to 127.0.0.1 set Port to 9050
 
-![Network setting](https://user-images.githubusercontent.com/114040752/203184279-95eb257e-98a3-40ab-bbab-29049a170da1.jpg)
+![network setting](https://user-images.githubusercontent.com/114040752/203184850-01676378-2e8a-48ee-a01c-366a9ef3692f.jpg)
 
 
 type [ onion ] anywhere in terminal
